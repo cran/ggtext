@@ -1,3 +1,8 @@
+# ggtext 0.1.2
+
+- Maintainer changes to Brenton Wiernik.
+- Removed LazyData from package DESCRIPTION to fix CRAN NOTE
+
 # ggtext 0.1.1
 
 - Make sure tests don't fail if vdiffr is missing.
